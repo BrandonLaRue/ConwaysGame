@@ -47,11 +47,9 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 		$scope.a = a;
 	};
 
+	// calculates and returns number of neighbors
+	var countNeighbors = function(row, col) {
 
-	// conwayGameRules takes in the (row, col) coordinate of a point within the bounds of
-	//		$scope.world and outputs the new value of the point based on the rules 
-	var conwayGameRules = function(row, col) {
-		
 		// calculate number of live neighbors for game rules
 		var neighbors = 0;
 		// loop over 3x3 block surrounding point (row, col)
@@ -60,7 +58,7 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 				// check if point it valid (row, col) not counted
 				if((r >= 0 && r < $scope.world.length) &&
 					(c >= 0 && c < $scope.world[0].length) &&
-					(r != row && c != col)) {
+					(r != row || c != col)) {
 					// increase neighbors if neighbor is live
 					if($scope.world[r][c] == true) {
 						neighbors++;
@@ -68,6 +66,14 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 				}
 			}
 		}
+		return neighbors;
+	};
+
+	// conwayGameRules takes in the (row, col) coordinate of a point within the bounds of
+	//		$scope.world and outputs the new value of the point based on the rules 
+	var conwayGameRules = function(row, col) {
+		
+		var neighbors = countNeighbors(row, col);
 
 		// implement game rules
 		//Any live cell with fewer than two live neighbors dies

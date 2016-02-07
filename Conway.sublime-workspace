@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"di",
+				"display"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"star",
+				"startPromise"
+			],
+			[
+				"initW",
+				"initWorldRandom"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
 				"text",
 				"text-align"
 			],
@@ -86,10 +114,6 @@
 			[
 				"bor",
 				"border-style"
-			],
-			[
-				"border",
-				"border-color"
 			],
 			[
 				"get",
@@ -448,10 +472,6 @@
 				"border-left"
 			],
 			[
-				"borderr",
-				"border-right-color"
-			],
-			[
 				"click",
 				"clicked"
 			],
@@ -494,31 +514,19 @@
 			[
 				"update",
 				"updatePathEditMarker"
-			],
-			[
-				"positio",
-				"position"
-			],
-			[
-				"markers",
-				"markers"
-			],
-			[
-				"tehm",
-				"tempPathPos"
-			],
-			[
-				"tempPa",
-				"tempPathPos"
-			],
-			[
-				"loa",
-				"locationQuery"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "js/controllers/MainController.js",
+			"settings":
+			{
+				"buffer_size": 3807,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -636,8 +644,8 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Galbatronx/Desktop/Game of Life/index.html",
 		"/C/Users/Galbatronx/Desktop/Game of Life/css/main.css",
+		"/C/Users/Galbatronx/Desktop/Game of Life/index.html",
 		"/C/Users/Galbatronx/Desktop/Game of Life/js/controllers/MainController.js",
 		"/C/Users/Galbatronx/Desktop/index.html",
 		"/C/Users/Galbatronx/Desktop/Ballroom Database/index.html",
@@ -973,8 +981,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "js/controllers/MainController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3802,
+								3802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

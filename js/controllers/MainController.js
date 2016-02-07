@@ -11,7 +11,7 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 	var delay = 500;
 
 	// bound sets ratio of live to dead, should be between 0 and 1
-	var bound = 0.75;
+	var bound = 0.6;
 
 	var makeWorldArray = function(h, w) {
 		// set up array to hold game state as multidimensional array of height x width
@@ -31,13 +31,14 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 	// make world
 	$scope.world = makeWorldArray(height, width);
 
-	// ititiasize world
-	for(var r = 0; r < height; r++) {
-		for(var c = 0; c < width; c++) {
-			$scope.world[r][c] = Math.random() > bound ? true : false;  
+	var initWorldRandom = function () {
+		// initiasize world
+		for(var r = 0; r < height; r++) {
+			for(var c = 0; c < width; c++) {
+				$scope.world[r][c] = Math.random() > bound ? true : false;  
+			}
 		}
-	}
-	
+	};
 	
 	// updateScope takes in a multidimensional array with equal size to world and updates
 	// 		world to it
@@ -74,7 +75,7 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 			return false;
 		}
 		// Any live cell with two or three live neighbours lives on to the next generation
-		else if($scope.world[row][col] == true && (neighbors == 2 || neighbors == 3)) {
+		 if($scope.world[row][col] == true && (neighbors == 2 || neighbors == 3)) {
 			return true;
 		}
 		// Any live cell with more than three live neighbours dies
@@ -106,8 +107,30 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 		$scope.world = tempWorld;
 	};
 
+	// starts simulation when button clicked
+	var startPromise = null;	// used to bridge starting and stopping the interval
+	$scope.startSimulation = function() {
+		// repeatedly update world with gameRules function
+		startPromise = $interval(function(){ updateWorld(conwayGameRules); }, delay);
+	};
 
-	// repeatedly update world with gameRules function
-	$interval(function(){ updateWorld(conwayGameRules); }, delay);
-	
+	// stops simulation when button clicked
+	$scope.stopSimulation = function() {
+		$interval.cancel(startPromise);
+	}
+
+	// clears world
+	$scope.clearWorld = function() {
+		$scope.world = makeWorldArray(height, width);
+	};
+
+	// makes random world
+	$scope.randomWorld = function() {
+		initWorldRandom();
+	};
+
+	// switches state of cell when clicked
+	$scope.switchCell = function(r, c) {
+		$scope.world[r][c] = !$scope.world[r][c];
+	};
 }]);

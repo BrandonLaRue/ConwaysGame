@@ -6,10 +6,16 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 	</head>
 	<body>
+		
 		<table>
+		<span class="button" ng-click="startSimulation()">Start Simulation</span>
+		<span class="button" ng-click="stopSimulation()">Stop Simulation</span>
+		<span class="button" ng-click="clearWorld()">Clear World</span>
+		<span class="button" ng-click="randomWorld()">Set Random World</span>
+		<span class="spacer"></span>
 			<div ng-repeat="r in world track by $index"> 
 				<div class="row" ng-repeat="c in r track by $index">
-					<span class="circle {{ world[$parent.$index][$index] }}"></span> 
+					<span class="circle {{ world[$parent.$index][$index] }}" ng-click="switchCell($parent.$index, $index)"></span> 
 				</div>				
 			</div>	
 		</table>

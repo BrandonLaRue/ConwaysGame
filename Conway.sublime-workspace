@@ -1,0 +1,1071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"outli",
+				"outline-style"
+			],
+			[
+				"ou",
+				"outline-color"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"borderi",
+				"border-image-width"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ma",
+				"makeWorldArray"
+			],
+			[
+				"updat",
+				"updateWorld"
+			],
+			[
+				"w",
+				"world"
+			],
+			[
+				"temp",
+				"tempWorld"
+			],
+			[
+				"m",
+				"makeWorldArray"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"no",
+				"neighbors"
+			],
+			[
+				"neighbos",
+				"neighbors"
+			],
+			[
+				"game",
+				"gameRules"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"get",
+				"getUser"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"member",
+				"member"
+			],
+			[
+				"em",
+				"emptyDatabase"
+			],
+			[
+				"des",
+				"displayDatabase"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"require",
+				"required"
+			],
+			[
+				"fin",
+				"firstName"
+			],
+			[
+				"fi",
+				"fix"
+			],
+			[
+				"sting",
+				"standing"
+			],
+			[
+				"cot",
+				"connection"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius"
+			],
+			[
+				"radius",
+				"border-bottom-right-radius"
+			],
+			[
+				"r",
+				"border-radius"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"person",
+				"personSchema"
+			],
+			[
+				"perso",
+				"personSchema"
+			],
+			[
+				"over",
+				"overloaded"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"h",
+				"htmlResponseCode"
+			],
+			[
+				"data",
+				"dataPath"
+			],
+			[
+				"cent",
+				"contentType"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"def",
+				"defaultPagePath"
+			],
+			[
+				"defa",
+				"defaultPath"
+			],
+			[
+				"c",
+				"contentType"
+			],
+			[
+				"conte",
+				"contentType"
+			],
+			[
+				"fil",
+				"fileExtension"
+			],
+			[
+				"content",
+				"Content-Type"
+			],
+			[
+				"ht",
+				"htmlFileLocotion"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"page",
+				"pageAddress"
+			],
+			[
+				"daa",
+				"dataIn"
+			],
+			[
+				"htt",
+				"httpGet"
+			],
+			[
+				"datast",
+				"datastore"
+			],
+			[
+				"datapa",
+				"dataPath1"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"call",
+				"callbackCount"
+			],
+			[
+				"g",
+				"getDataAsync"
+			],
+			[
+				"conc",
+				"concatString"
+			],
+			[
+				"co",
+				"concatString"
+			],
+			[
+				"round",
+				"roundUp"
+			],
+			[
+				"y",
+				"testingY"
+			],
+			[
+				"cost",
+				"costStore"
+			],
+			[
+				"cos",
+				"costStore"
+			],
+			[
+				"t",
+				"testingX"
+			],
+			[
+				"testi",
+				"testingY"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"theta",
+				"theta"
+			],
+			[
+				"la",
+				"layerLengths"
+			],
+			[
+				"col",
+				"cols"
+			],
+			[
+				"regulari",
+				"regularization"
+			],
+			[
+				"grad",
+				"gradients"
+			],
+			[
+				"al",
+				"a_l"
+			],
+			[
+				"exp",
+				"examples"
+			],
+			[
+				"layer",
+				"layers-1"
+			],
+			[
+				"lay",
+				"layers-1"
+			],
+			[
+				"th",
+				"Theta_l"
+			],
+			[
+				"THe",
+				"Theta2"
+			],
+			[
+				"email",
+				"email_contents"
+			],
+			[
+				"word",
+				"word_indices"
+			],
+			[
+				"vocab",
+				"vocabList"
+			],
+			[
+				"voca",
+				"vocabList"
+			],
+			[
+				"ema",
+				"email_contents"
+			],
+			[
+				"lab",
+				"lambda_vec"
+			],
+			[
+				"er",
+				"error_train"
+			],
+			[
+				"lamb",
+				"lambda_vec"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"X",
+				"Xval"
+			],
+			[
+				"Theta2",
+				"Theta2"
+			],
+			[
+				"Theta",
+				"Theta2_grad"
+			],
+			[
+				"THeta2",
+				"Theta2_grad"
+			],
+			[
+				"The",
+				"Theta1_grad"
+			],
+			[
+				"vale",
+				"values"
+			],
+			[
+				"e",
+				"epsilon"
+			],
+			[
+				"n",
+				"num_options"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"num",
+				"num_labels"
+			],
+			[
+				"x",
+				"X"
+			],
+			[
+				"li",
+				"linspace"
+			],
+			[
+				"j",
+				"J_vals"
+			],
+			[
+				"thet",
+				"theta_0vals"
+			],
+			[
+				"te",
+				"theta"
+			],
+			[
+				"border-left-",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-left",
+				"border-left"
+			],
+			[
+				"borderr",
+				"border-right-color"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"urgent",
+				"urgentDiv"
+			],
+			[
+				"border-right",
+				"border-right-width"
+			],
+			[
+				"right",
+				"border-right-color"
+			],
+			[
+				"marker",
+				"markerPosition"
+			],
+			[
+				"mark",
+				"markers"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"store",
+				"storedEvent"
+			],
+			[
+				"stor",
+				"storedEvent"
+			],
+			[
+				"update",
+				"updatePathEditMarker"
+			],
+			[
+				"positio",
+				"position"
+			],
+			[
+				"markers",
+				"markers"
+			],
+			[
+				"tehm",
+				"tempPathPos"
+			],
+			[
+				"tempPa",
+				"tempPathPos"
+			],
+			[
+				"loa",
+				"locationQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "close",
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"setsh",
+				"Set Syntax: HTML"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sets j",
+				"Set Syntax: Java"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"save ",
+				"File: Save All"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"forder",
+				"Project: Refresh Folders"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"folder",
+				"Project: Refresh Folders"
+			],
+			[
+				"jaa",
+				"Set Syntax: Java"
+			],
+			[
+				"sml",
+				"Set Syntax: SML"
+			],
+			[
+				"set syntal ",
+				"Set Syntax: Lisp"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Build: New Build System"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 281.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Galbatronx/Desktop/Game of Life",
+		"/C/Users/Galbatronx/Desktop/Game of Life/css",
+		"/C/Users/Galbatronx/Desktop/Game of Life/js",
+		"/C/Users/Galbatronx/Desktop/Game of Life/js/controllers"
+	],
+	"file_history":
+	[
+		"/C/Users/Galbatronx/Desktop/Game of Life/index.html",
+		"/C/Users/Galbatronx/Desktop/Game of Life/css/main.css",
+		"/C/Users/Galbatronx/Desktop/Game of Life/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Desktop/index.html",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/index.html",
+		"/C/Users/Galbatronx/Desktop/Game of Life/js/app.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/app.js",
+		"/C/Users/Galbatronx/Desktop/Neuroscience Articles/Depression.txt",
+		"/C/Users/Galbatronx/Desktop/HeadShape.java",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Desktop/dbServer.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/services/getJSON.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/functions/functions.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/searchMembers.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/css/main.css",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/services/getUser.js",
+		"/C/Users/Galbatronx/Desktop/Test.java",
+		"/C/Users/Galbatronx/Desktop/test.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/directives/userDisplay.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/directives/displayUser.html",
+		"/C/Users/Galbatronx/Desktop/Learning Angular/KatieCollage.html",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/js/BallroomDB.js",
+		"/C/Users/Galbatronx/Desktop/Learning Angular/LastDirectivesTest/index.html",
+		"/C/Users/Galbatronx/Desktop/Talos.txt",
+		"/C/Users/Galbatronx/Desktop/llama.txt",
+		"/C/Users/Galbatronx/Desktop/quickstart.html",
+		"/C/Users/Galbatronx/Desktop/A1.2.ml",
+		"/C/Users/Galbatronx/Desktop/A1.1.ml",
+		"/C/Users/Galbatronx/Desktop/BB8.html",
+		"/C/Users/Galbatronx/Desktop/LIST.sml",
+		"/C/Users/Galbatronx/Desktop/Comp 410/SML Notes.txt",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/runEmptyDatabase.bat",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/runBallroomDB.bat",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/emptyDatabase.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/functions/functions.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/BallroomDB.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/schemas/schemas.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database/models/models.js",
+		"/C/Users/Galbatronx/Desktop/Ballroom Database.txt",
+		"/C/Users/Galbatronx/Desktop/NodeMongoServers/mongoServer2.js",
+		"/C/Users/Galbatronx/Desktop/NodeMongoServers/runMongoServer3.bat",
+		"/C/Users/Galbatronx/Desktop/Climbing Shoes.txt",
+		"/C/Users/Galbatronx/Desktop/KatieCollage.html",
+		"/C/Users/Galbatronx/Desktop/animane.html",
+		"/C/Users/Galbatronx/Desktop/Learning.txt",
+		"/C/Users/Galbatronx/Desktop/Books.txt",
+		"/C/Users/Galbatronx/Desktop/SML Notes.txt",
+		"/C/Users/Galbatronx/Desktop/NodeMongoServers/server.js",
+		"/C/Users/Galbatronx/Desktop/NodeMongoServers/runMongoServer2.txt",
+		"/C/Users/Galbatronx/Desktop/CSSTest/index.html",
+		"/C/Users/Galbatronx/Desktop/Katie.txt",
+		"/C/Users/Galbatronx/Desktop/KatieCollage2.html",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/css/main.css",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/js/directives/message.js",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/index.html",
+		"/C/Users/Galbatronx/Desktop/CSSTest/css.css",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/js/directives/testDir.js",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/js/controllers/message.js",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/js/controllers/ChatMessengerController.js",
+		"/C/Users/Galbatronx/Desktop/another/index.html",
+		"/C/Users/Galbatronx/Desktop/ang/index.html",
+		"/C/Users/Galbatronx/Desktop/another/js/directives/noodle.js",
+		"/C/Users/Galbatronx/Desktop/test/js/app.js",
+		"/C/Users/Galbatronx/Desktop/test/js/directives/noodle.js",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/index.html",
+		"/C/Users/Galbatronx/Desktop/LastDirectivesTest/js/main.js",
+		"/C/Users/Galbatronx/Desktop/another/js/directives/startDirServer.bat",
+		"/C/Users/Galbatronx/Desktop/dirServer.js",
+		"/C/Users/Galbatronx/Desktop/another/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Desktop/another/js/app.js",
+		"/C/Users/Galbatronx/Desktop/ang/js/directives/test.html",
+		"/C/Users/Galbatronx/Desktop/ang/js/directives/testDir.js",
+		"/C/Users/Galbatronx/Desktop/server.js",
+		"/C/Users/Galbatronx/Desktop/test/index.html",
+		"/C/Users/Galbatronx/Desktop/test/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Desktop/test/js/directives/noodle.html",
+		"/C/Users/Galbatronx/Desktop/ang/js/app.js",
+		"/C/Users/Galbatronx/Desktop/ang/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Desktop/ang/css/main.css",
+		"/C/Users/Galbatronx/Desktop/ang/js/directives/message.html",
+		"/C/Users/Galbatronx/Desktop/ang/js/directives/message.js",
+		"/C/Users/Galbatronx/Desktop/ang/js/directives/tacoCat.js",
+		"/C/Users/Galbatronx/Desktop/piano app.txt",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/js/services/httpGetter.js",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/js/app.js",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/app.js",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/MainController.js",
+		"/C/Users/Galbatronx/Desktop/AngularTesting/httpGetter.js",
+		"/C/Users/Galbatronx/Desktop/MainController.js",
+		"/C/Users/Galbatronx/Desktop/httpGetter.js",
+		"/C/Users/Galbatronx/Desktop/t.js",
+		"/C/Users/Galbatronx/Documents/GitHub/NeuralNet/scripts/randomizeList.m",
+		"/C/Users/Galbatronx/Documents/GitHub/NeuralNet/scripts/displayData.m",
+		"/C/Users/Galbatronx/Documents/GitHub/NeuralNet/scripts/createArchitecture.m",
+		"/C/Users/Galbatronx/Desktop/Programming/Machine Learning Class/ex3/ex3_nn.m",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Do I Make a Difference - Kagan.txt",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Singer on Killing Animas - Kagan.txt",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Individualization - Maniates.txt",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Environmental Disobediance.txt",
+		"/C/Users/Galbatronx/Desktop/mongoServer.js",
+		"/C/Users/Galbatronx/Desktop/runCopyServer.bat",
+		"/C/Users/Galbatronx/Desktop/copyServer.js",
+		"/C/Users/Galbatronx/Desktop/runServer.bat",
+		"/C/Users/Galbatronx/Desktop/runNodeServer.bat",
+		"/C/Users/Galbatronx/Desktop/Start MongoDB.bat",
+		"/C/Users/Galbatronx/Desktop/Canned Food/Script.txt",
+		"/C/Users/Galbatronx/Desktop/testMongoServer.js",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Activist Challenges to Deliberative Democracy.txt",
+		"/C/Users/Galbatronx/node_modules/mongoose/node_modules/mongodb/README.md",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/The Animal Rights Debate.txt",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Food Security, Food Justice.txt",
+		"/C/Users/Galbatronx/Desktop/Song.txt",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Consequentialism.txt",
+		"/C/Users/Galbatronx/Desktop/PHIL 163/Individualization.txt",
+		"/C/Users/Galbatronx/Desktop/Module 5 Videos/5 - 1 - 5.1 - Introduction - Module 5- Support Your Big Idea - 2-41.txt",
+		"/C/Users/Galbatronx/Desktop/parse-js-blank/sample/parse-js-blank/index.html",
+		"/C/Users/Galbatronx/Desktop/pushTut/bluelist-push/bluelist-push-node/app.js",
+		"/C/Users/Galbatronx/Desktop/Programming/Node/NodeServer/testCrawl.js",
+		"/C/Users/Galbatronx/Desktop/COMP 401/COMP 401 Notes.java",
+		"/C/Users/Galbatronx/Desktop/SPAN 203/Gran Hotel ep3.txt",
+		"/C/Users/Galbatronx/Desktop/SPAN 203/Gran Hotel ep1.txt",
+		"/C/Users/Galbatronx/Desktop/SPAN 203/Gran Hotel ep2.txt",
+		"/C/Users/Galbatronx/Desktop/testCrawl.js",
+		"/C/Users/Galbatronx/Documents/GitHub/NodeServer/testServer.js",
+		"/C/Users/Galbatronx/Desktop/Dance Styles For Competition.txt",
+		"/C/Users/Galbatronx/Desktop/testServer.js",
+		"/C/Users/Galbatronx/Desktop/testFile.txt"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 221.0,
+		"where_history":
+		[
+			"<current file>",
+			"<open files>",
+			"this",
+			"cat.txt",
+			"this.txt",
+			"",
+			"	",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"u.",
+			"h3",
+			"q.",
+			"q",
+			"term",
+			"if",
+			"Desktop",
+			"desktop",
+			"http://www.unc.edu/",
+			"there",
+			"concert",
+			"icon",
+			"content",
+			"url.parse(request.url, true).pathname",
+			"})\n",
+			"epi",
+			"})}",
+			"int",
+			"load",
+			"\\n",
+			"problem",
+			"X",
+			"x",
+			"X",
+			"rows",
+			"rws",
+			"rows",
+			"row",
+			"rows",
+			"rws",
+			"rows",
+			"row",
+			"rws,",
+			"rws",
+			"rows",
+			"rows(",
+			"rows",
+			"Cond",
+			"cond",
+			"p *",
+			"p ",
+			"z",
+			"type",
+			"error",
+			"margin",
+			"Level",
+			"Confidence",
+			"confidence",
+			"level",
+			"type",
+			"type ",
+			"z score",
+			"z",
+			"stand",
+			"1-p",
+			"1-l",
+			"standard",
+			"err",
+			"str",
+			"dataset3Params",
+			"cri",
+			"critic",
+			"lr",
+			"fm",
+			"f",
+			"fmin",
+			"400",
+			"norm",
+			"figure",
+			"close ",
+			"lam",
+			"end",
+			"response",
+			"median",
+			"leaf",
+			"number",
+			"cen",
+			"central l",
+			"standard deviation",
+			"stdev",
+			"standard error",
+			"pdf",
+			"empi",
+			"R",
+			"G",
+			"N",
+			"P",
+			"nation",
+			"W",
+			"M",
+			"X",
+			"T",
+			"O",
+			"V",
+			"S",
+			"H",
+			"F",
+			"Q",
+			"I",
+			"Y",
+			"A",
+			"K",
+			"A",
+			"Z",
+			"I",
+			"J",
+			"normal",
+			"para",
+			"indep",
+			"m",
+			"z",
+			"min",
+			"3",
+			"2",
+			"1",
+			"System.out",
+			"reality",
+			"rank",
+			"our",
+			"web",
+			"standard",
+			"\\",
+			"delete",
+			"storedEvent",
+			"path.getPath()",
+			"table-bordered",
+			"table-",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user.",
+			"b",
+			"x.",
+			"e.",
+			"e",
+			"http://katiemew.weebly.com/you.html",
+			", ",
+			"X",
+			"x",
+			"rws",
+			"y",
+			"c",
+			"m",
+			"v",
+			"n",
+			"b",
+			"r",
+			"g",
+			"f",
+			"d",
+			"l",
+			"u",
+			"s",
+			"h",
+			"t",
+			"o",
+			"i",
+			"a",
+			"i",
+			"e",
+			"a",
+			"t",
+			"max",
+			"4",
+			"3",
+			"2",
+			"output",
+			"Web.",
+			"\\\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Conway.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ind",
+				"C:\\Users\\Galbatronx\\Desktop\\LastDirectivesTest\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Galbatronx\\Desktop\\Test project.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 185.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

@@ -13,6 +13,7 @@
 		<span class="button" ng-click="clearWorld()">Clear World</span>
 		<span class="button" ng-click="randomWorld()">Set Random World</span>
 		<span class="spacer"></span>
+		<span class="label">Delay: </span><input type=number ng-model="delay"></input>
 			<div ng-repeat="r in world track by $index"> 
 				<div class="row" ng-repeat="c in r track by $index">
 					<span class="circle {{ world[$parent.$index][$index] }}" ng-click="switchCell($parent.$index, $index)"></span> 

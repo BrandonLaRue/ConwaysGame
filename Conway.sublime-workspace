@@ -523,7 +523,7 @@
 			"file": "js/controllers/MainController.js",
 			"settings":
 			{
-				"buffer_size": 3807,
+				"buffer_size": 3966,
 				"line_ending": "Windows"
 			}
 		}
@@ -637,10 +637,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Galbatronx/Desktop/Game of Life",
-		"/C/Users/Galbatronx/Desktop/Game of Life/css",
-		"/C/Users/Galbatronx/Desktop/Game of Life/js",
-		"/C/Users/Galbatronx/Desktop/Game of Life/js/controllers"
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame"
 	],
 	"file_history":
 	[
@@ -990,15 +987,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3807,
+						"buffer_size": 3966,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3802,
-								3802
+								0,
+								0
 							]
 						],
 						"settings":

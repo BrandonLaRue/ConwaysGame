@@ -8,7 +8,7 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 	var width = 35;
 
 	// set delay between world updates
-	var delay = 500;
+	$scope.delay = 500;
 
 	// bound sets ratio of live to dead, should be between 0 and 1
 	var bound = 0.6;
@@ -117,7 +117,7 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 	var startPromise = null;	// used to bridge starting and stopping the interval
 	$scope.startSimulation = function() {
 		// repeatedly update world with gameRules function
-		startPromise = $interval(function(){ updateWorld(conwayGameRules); }, delay);
+		startPromise = $interval(function(){ updateWorld(conwayGameRules); }, $scope.delay);
 	};
 
 	// stops simulation when button clicked

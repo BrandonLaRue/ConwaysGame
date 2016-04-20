@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding-right"
+			],
+			[
 				"di",
 				"display"
 			],
@@ -510,23 +514,11 @@
 			[
 				"stor",
 				"storedEvent"
-			],
-			[
-				"update",
-				"updatePathEditMarker"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "js/controllers/MainController.js",
-			"settings":
-			{
-				"buffer_size": 3966,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -637,10 +629,17 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame"
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame",
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/css",
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/js",
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/js/controllers"
 	],
 	"file_history":
 	[
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/index.html",
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/singleFileVersion.html",
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/js/controllers/MainController.js",
+		"/C/Users/Galbatronx/Documents/GitHub/ConwaysGame/css/main.css",
 		"/C/Users/Galbatronx/Desktop/Game of Life/css/main.css",
 		"/C/Users/Galbatronx/Desktop/Game of Life/index.html",
 		"/C/Users/Galbatronx/Desktop/Game of Life/js/controllers/MainController.js",
@@ -764,11 +763,7 @@
 		"/C/Users/Galbatronx/Desktop/SPAN 203/Gran Hotel ep3.txt",
 		"/C/Users/Galbatronx/Desktop/SPAN 203/Gran Hotel ep1.txt",
 		"/C/Users/Galbatronx/Desktop/SPAN 203/Gran Hotel ep2.txt",
-		"/C/Users/Galbatronx/Desktop/testCrawl.js",
-		"/C/Users/Galbatronx/Documents/GitHub/NodeServer/testServer.js",
-		"/C/Users/Galbatronx/Desktop/Dance Styles For Competition.txt",
-		"/C/Users/Galbatronx/Desktop/testServer.js",
-		"/C/Users/Galbatronx/Desktop/testFile.txt"
+		"/C/Users/Galbatronx/Desktop/testCrawl.js"
 	],
 	"find":
 	{
@@ -978,38 +973,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "js/controllers/MainController.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3966,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

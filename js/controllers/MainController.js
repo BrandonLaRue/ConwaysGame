@@ -116,6 +116,9 @@ app.controller('MainController', ['$scope', '$timeout', '$interval', function($s
 	// starts simulation when button clicked
 	var startPromise = null;	// used to bridge starting and stopping the interval
 	$scope.startSimulation = function() {
+		// fixes error where pressing start twice would overwrite the promise we would try to stop later
+		$scope.stopSimulation();
+
 		// repeatedly update world with gameRules function
 		startPromise = $interval(function(){ updateWorld(conwayGameRules); }, $scope.delay);
 	};
